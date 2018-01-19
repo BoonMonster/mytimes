@@ -1,0 +1,79 @@
+
+
+#container {
+  border-bottom: black solid 1px;
+  z-index: 20;
+  display: inline-flex;
+  width: 100%;
+  padding-bottom: 10px;
+  align-items: center;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  justify-content: space-between;
+}
+
+.lhs {
+  display: inline-flex;
+  color: mediumaquamarine;
+  flex-basis: 180px;
+  justify-content: space-around;
+}
+
+.rhs {
+  display: inline-block;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+a {
+  color: black;
+  padding: 20px;
+}
+
+/*
+.rhs, header, h6, img {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.rhs {
+justify-content: flex-end;
+}
+
+.myt, .mytimes, .rhs, img, h6{
+  border: black solid 1px;
+  padding: 10px;
+  display: inline;
+}
+
+h6 {
+}
+
+
+body {
+  margin: 0;
+  border: 0;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.container {
+  width: 200px;
+  border: 1px solid grey;
+  display: inline-flex;
+}
+
+.box {
+  background-color: Dodgerblue;
+  height: 75px;
+  width: 75px;
+  border: 1px solid turquoise;
+}
+*/
